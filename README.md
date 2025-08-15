@@ -4,24 +4,24 @@ Página web responsiva para divulgar a Padaria Plus, destacando produtos artesan
 
 ## 🖥️ Tecnologias
 
-HTML5
+- HTML5
 
-CSS3
+- CSS3
 
-Google Fonts (Poppins, Heebo, Lato)
+- Google Fonts (Poppins, Heebo, Lato)
 
-Font Awesome
+- Font Awesome
 
-Favicon personalizado
+- Favicon personalizado
 
 ## 🎨 Estilo e Funcionalidades
 
-Layout centralizado e responsivo
+- Layout centralizado e responsivo
 
-Cores quentes e tipografia moderna
+- Cores quentes e tipografia moderna
 
-Galeria de produtos com imagens arredondadas e sombras
+- Galeria de produtos com imagens arredondadas e sombras
 
-Botões de endereço e links para redes sociais
+- Botões de endereço e links para redes sociais
 
-Variáveis CSS para fácil manutenção
+- Variáveis CSS para fácil manutenção
