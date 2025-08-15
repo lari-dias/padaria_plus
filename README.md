@@ -7,15 +7,15 @@ O design foi pensado para transmitir aconchego e tradição, utilizando cores qu
 
 A Padaria Plus é apresentada por meio de uma página HTML estilizada com CSS e Font Awesome, oferecendo:
 
-Seção inicial com logo, menu de navegação e chamada principal.
+- Seção inicial com logo, menu de navegação e chamada principal.
 
-Área de destaque com história da padaria, imagem da vitrine e botão de endereço.
+- Área de destaque com história da padaria, imagem da vitrine e botão de endereço.
 
-Galeria de produtos: pães, doces e pizzas artesanais.
+- Galeria de produtos: pães, doces e pizzas artesanais.
 
-Rodapé com redes sociais e direitos autorais.
+- Rodapé com redes sociais e direitos autorais.
 
-O layout é centralizado e otimizado para responsividade, proporcionando uma boa experiência tanto em desktop quanto em dispositivos móveis.
+- O layout é centralizado e otimizado para responsividade, proporcionando uma boa experiência tanto em desktop quanto em dispositivos móveis.
 
 ## 🖥️ Tecnologias Utilizadas
 
@@ -35,12 +35,12 @@ O projeto utiliza media queries no arquivo responsive.css para garantir adaptaç
 
 ## 📌 Funcionalidades
 
-Layout responsivo
+- Layout responsivo
 
-Links para redes sociais
+- Links para redes sociais
 
-Botão de endereço
+- Botão de endereço
 
-Imagens com bordas arredondadas e sombra
+- Imagens com bordas arredondadas e sombra
 
-Uso de variáveis CSS para fácil manutenção
+- Uso de variáveis CSS para fácil manutenção
