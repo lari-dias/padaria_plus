@@ -1,9 +1,9 @@
-Padaria Plus
+## 🍞 Padaria Plus
 
 Projeto de página web responsiva para a Padaria Plus, destacando seus produtos artesanais, história e canais de contato.
 O design foi pensado para transmitir aconchego e tradição, utilizando cores quentes e fontes modernas, além de garantir boa usabilidade em dispositivos móveis.
 
-📋 Descrição
+## 📋 Descrição
 
 A Padaria Plus é apresentada por meio de uma página HTML estilizada com CSS e Font Awesome, oferecendo:
 
@@ -17,7 +17,7 @@ Rodapé com redes sociais e direitos autorais.
 
 O layout é centralizado e otimizado para responsividade, proporcionando uma boa experiência tanto em desktop quanto em dispositivos móveis.
 
-🖥️ Tecnologias Utilizadas
+## 🖥️ Tecnologias Utilizadas
 
 HTML5 → Estrutura semântica do site
 
@@ -29,11 +29,11 @@ Font Awesome → Ícones de redes sociais
 
 Favicon → Personalização do ícone da aba do navegador
 
-📱 Responsividade
+## 📱 Responsividade
 
 O projeto utiliza media queries no arquivo responsive.css para garantir adaptação do layout em diferentes tamanhos de tela, reorganizando elementos e ajustando espaçamentos conforme necessário.
 
-📌 Funcionalidades
+## 📌 Funcionalidades
 
 Layout responsivo
 
