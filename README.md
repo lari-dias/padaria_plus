@@ -19,15 +19,15 @@ A Padaria Plus é apresentada por meio de uma página HTML estilizada com CSS e 
 
 ## 🖥️ Tecnologias Utilizadas
 
-HTML5 → Estrutura semântica do site
+- HTML5 → Estrutura semântica do site
 
-CSS3 → Estilização, variáveis de cor e responsividade
+- CSS3 → Estilização, variáveis de cor e responsividade
 
-Google Fonts → Fontes Poppins, Heebo e Lato
+- Google Fonts → Fontes Poppins, Heebo e Lato
 
-Font Awesome → Ícones de redes sociais
+- Font Awesome → Ícones de redes sociais
 
-Favicon → Personalização do ícone da aba do navegador
+- Favicon → Personalização do ícone da aba do navegador
 
 ## 📱 Responsividade
 
