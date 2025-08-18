@@ -117,6 +117,10 @@ section:first-of-type {
   color: var(--accent-color);
 }
 
+.products p {
+  font-size: 17px;
+}
+
 .more-products {
   background-color: var(--accent-color);
   padding: 30px 15px;
