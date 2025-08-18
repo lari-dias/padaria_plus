@@ -49,7 +49,7 @@ nav ul {
 
 nav a {
   text-decoration: none;
-  font-size: 22px;
+  font-size: 18px;
   color: var(--secondary-color);
   font-weight: 500;
   transition: color 0.3s ease;
@@ -104,7 +104,7 @@ section:first-of-type {
 }
 
 .products h1 {
-  font-size: 32px;
+  font-size: 28px;
   border-top: 2px solid var(--accent-color);
   color: var(--secondary-color);
   padding-top: 15px;
@@ -112,6 +112,7 @@ section:first-of-type {
 
 .products h2 {
   font-weight: bold;
+  font-size: 24px;
   color: var(--accent-color);
 }
 
@@ -128,7 +129,7 @@ section:first-of-type {
 }
 
 .more-products h3 {
-  font-size: 26px;
+  font-size: 22px;
   margin-bottom: 15px;
 }
 
@@ -141,6 +142,7 @@ section:first-of-type {
   max-width: 500px;
   margin: 10px auto;
   line-height: 1.6;
+  font-size: 16px;
 }
 
 figure {
