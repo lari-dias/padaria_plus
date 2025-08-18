@@ -159,6 +159,10 @@ figure {
   max-width: 700px;
 }
 
+.products p {
+  font-size: 18px;
+}
+
 .more-products img {
   max-width: 400px;
 }
