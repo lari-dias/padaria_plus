@@ -38,20 +38,19 @@ nav {
   margin: 5px 0 10px;
 }
 
-nav ul {
+.header nav ul {
   display: flex;
-  flex-wrap: wrap;
   justify-content: center;
   gap: 20px;
   list-style: none;
-  padding: 10px 0 0 0;
+  margin: 15px 0 25px;
+  flex-wrap: wrap;
 }
 
-nav a {
+.header nav ul li a {
   text-decoration: none;
-  font-size: 18px;
   color: var(--secondary-color);
-  font-weight: 500;
+  font-size: 18px;
   transition: color 0.3s ease;
 }
 
